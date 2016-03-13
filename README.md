@@ -4,7 +4,7 @@ If you work on OSX in a code editor that lacks a quality built-in terminal and y
 
 This works with any code editor (although defaulted to Sublime Text) together with a program called Moom, an automator file with some Bash and Applescript, and some OSX preference tweeks. This solution will make it so you essentially have the the Mac OSX terminal attached to your code editor With keybord command to resize each pane and toggle focus.
 
-[This video](https://www.youtube.com/watch?v=gq55KoAUsSk) Explains a lot.
+[This video](https://www.youtube.com/watch?v=gq55KoAUsSk) explains a lot.
 
 It also creates right-click and keyboard shortcuts to open any file or folder as a project in your editor, loaded with the terminal pointing to the working directory
 
