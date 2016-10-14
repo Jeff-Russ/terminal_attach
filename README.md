@@ -12,7 +12,13 @@ It also creates right-click and keyboard shortcuts to open any file or folder as
 
 1. Install [Moom](https://manytricks.com/moom/) 
 2. Drop `com.manytricks.Moom.plist` in `~/Library/Preferences`
-3. Launch Moom and in it's prefs > custom make sure you see entries
+3. Launch Moom and in it's prefs > custom make sure you see entries, if not you can make the entry yourself:
+    * make a new "arrange windows"
+    * set keyboard shortcut to ⌥A
+    * uncheck "ignore obstructed windows"
+    * open up sublime and terminal and places then as you like
+    * close every other window, even finder windows
+    * back in your moom preferences click "Update Snapshot"
 4. Also make sure it launches upon startup
 5. Drop `Open with Sublime` in `~/Library/Services`
 6. ⌥⌘⎋ and restart finder
